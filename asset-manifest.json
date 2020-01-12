@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/veterinary-administration/static/js/main.b0fd77d4.chunk.js",
+    "main.js.map": "/veterinary-administration/static/js/main.b0fd77d4.chunk.js.map",
+    "runtime-main.js": "/veterinary-administration/static/js/runtime-main.4d043a33.js",
+    "runtime-main.js.map": "/veterinary-administration/static/js/runtime-main.4d043a33.js.map",
+    "static/js/2.4ef05891.chunk.js": "/veterinary-administration/static/js/2.4ef05891.chunk.js",
+    "static/js/2.4ef05891.chunk.js.map": "/veterinary-administration/static/js/2.4ef05891.chunk.js.map",
+    "index.html": "/veterinary-administration/index.html",
+    "precache-manifest.88405adb9c9d5d2fc71a6d12048263b2.js": "/veterinary-administration/precache-manifest.88405adb9c9d5d2fc71a6d12048263b2.js",
+    "service-worker.js": "/veterinary-administration/service-worker.js",
+    "static/js/2.4ef05891.chunk.js.LICENSE": "/veterinary-administration/static/js/2.4ef05891.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d043a33.js",
+    "static/js/2.4ef05891.chunk.js",
+    "static/js/main.b0fd77d4.chunk.js"
+  ]
+}
